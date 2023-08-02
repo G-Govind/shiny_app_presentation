@@ -1,0 +1,46 @@
+---
+title: "Shiny App Presentation"
+author: "G Govind"
+date: "2023-08-02"
+output: html_document
+---
+## Slide 1
+
+### Introduction to the Shiny App
+
+Welcome to the Shiny App Presentation! In this presentation, we will introduce our Shiny application and showcase its features and functionalities.
+
+## Slide 2
+
+### How it Works
+
+Our Shiny app provides an interactive user interface for performing various mathematical operations. Users can select an operation from a set of options, input numeric values, and get immediate results.
+## Slide 3
+
+### Features
+
+Our Shiny app offers the following key features:
+
+- Simple and intuitive user interface
+- Support for addition, subtraction, multiplication, and division operations
+- Real-time updates with reactive outputs
+- Error handling for division by zero
+
+## Slide 4
+
+### Usage
+
+Let's walk through how to use the Shiny app:
+
+1. Open the application in a web browser.
+2. Choose the desired operation using the radio buttons.
+3. Enter numeric values in the text boxes for 'Value 1' and 'Value 2'.
+4. The result will be automatically displayed below.
+
+## Slide 5
+
+### Conclusion
+
+Our Shiny app provides a user-friendly way to perform basic arithmetic operations. It's a great tool for quick calculations and learning the basics of Shiny applications.
+
+Thank you for your attention. Try out the Shiny app and experience its simplicity and power!
