@@ -2,7 +2,7 @@
 title: "Shiny App Presentation"
 author: "G Govind"
 date: "2023-08-02"
-output: html_document
+output: ioslides_presentation
 ---
 ## Slide 1
 
